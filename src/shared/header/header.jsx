@@ -5,7 +5,7 @@ function Header(){
     return(
         <div className="header">
             <div id="logo">
-                Header
+                Ajay
             </div>
         </div>
     )
